@@ -1,0 +1,6 @@
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\UI.Consola\bin\Debug\UI.Consola.exe.config
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\UI.Consola\bin\Debug\UI.Consola.exe
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\UI.Consola\bin\Debug\UI.Consola.pdb
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\UI.Consola\obj\Debug\UI.Consola.csprojResolveAssemblyReference.cache
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\UI.Consola\obj\Debug\UI.Consola.exe
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\UI.Consola\obj\Debug\UI.Consola.pdb

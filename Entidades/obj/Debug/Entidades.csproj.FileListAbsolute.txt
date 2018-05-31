@@ -1,0 +1,5 @@
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\Entidades\bin\Debug\Entidades.dll
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\Entidades\bin\Debug\Entidades.pdb
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\Entidades\obj\Debug\Entidades.dll
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\Entidades\obj\Debug\Entidades.pdb

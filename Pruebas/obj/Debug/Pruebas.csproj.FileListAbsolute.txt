@@ -1,0 +1,9 @@
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\Pruebas\bin\Debug\Pruebas.dll
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\Pruebas\bin\Debug\Pruebas.pdb
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\Pruebas\bin\Debug\Entidades.dll
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\Pruebas\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\Pruebas\bin\Debug\Entidades.pdb
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\Pruebas\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\Pruebas\obj\Debug\Pruebas.dll
+D:\Facultad\Quinto año\Metodologias Agiles\AhorcadoAgiles\Pruebas\obj\Debug\Pruebas.pdb
